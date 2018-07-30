@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,sinon_chai",
+    "logging_enabled": "false",
+    "name": "sinon_chaiSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sinon_chaiSmokeTest.js"
+}
